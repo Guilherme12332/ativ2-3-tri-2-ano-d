@@ -9,6 +9,7 @@ color: rgb(30, 130, 0);
 border-style: double;
 border-right: 50%;
 border-left: 30%;
+margin-right: 50px;
 }
 h3{margin-left: 15%;
 color: orangered;
